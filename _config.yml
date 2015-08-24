@@ -1,0 +1,46 @@
+title: Máté Kocsis
+email: kocsismate@woohoolabs.com
+baseurl: ""
+url: "http://kocsismate.github.io/"
+permalink: pretty
+encoding: "utf-8"
+
+highlighter: pygments
+paginate: 10
+exclude: ["_import", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+gems:
+  - jekyll-redirect-from
+
+logo: "/assets/images/author.jpg"
+cover: "/assets/images/background_image.jpg"
+author: "Kocsis Máté"
+author_image: "/assets/images/author.jpg"
+author_bio: ""
+disqus: kocsismate
+
+social:
+  - icon: twitter
+    url: https://twitter.com/kocsismate90
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url:	
+    desc: 
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon: github
+    url: https://github.com/kocsismate
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
