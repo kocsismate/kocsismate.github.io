@@ -1,8 +1,10 @@
 ---
+author: Máté Kocsis
 layout: post
-title: "Prefer separation of concerns over abstraction"
-date: 2015-09-12 12:12:25
+title: "Separation of concerns over abstraction"
+excerpt: "Why I prefer separation of concerns over abstraction"
+date: 2015-09-12 12:00:00
 categories: architecture
-tags: architecture
+tags: php architecture
+image:
 ---
-# Prefer separation of concerns over abstraction

@@ -1,7 +1,7 @@
 title: Máté Kocsis
 email: kocsismate@woohoolabs.com
 baseurl: ""
-url: "http://kocsismate.github.io/"
+url: "/"
 permalink: pretty
 encoding: "utf-8"
 
@@ -18,7 +18,8 @@ gems:
 
 logo: "/assets/images/author.jpg"
 cover: "/assets/images/background_image.jpg"
-author: "Kocsis Máté"
+
+author: "Máté Kocsis"
 author_image: "/assets/images/author.jpg"
 author_bio: ""
 disqus: kocsismate
