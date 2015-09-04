@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Why I prefer separation of concerns instead of abstraction"
+title: "Prefer separation of concerns over abstraction"
 date: 2015-09-12 12:12:25
 categories: architecture
 tags: architecture
-image:
 ---
-# Why I prefer separation of concerns instead of abstraction
+# Prefer separation of concerns over abstraction
