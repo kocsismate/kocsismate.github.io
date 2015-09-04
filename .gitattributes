@@ -3,17 +3,17 @@
 * text=auto
 
 # These files are text and should be normalized
-*.css text
-*.js text
+*.css text eof=lf
+*.js text eof=lf
 *.htm text diff=html
 *.html text diff=html
-*.yml text
-*.sh text
-*.txt text
-*.md text
-Gemfile text
-Gemfile.lock text
-Vagrantfile text
+*.yml text eof=lf
+*.sh text eof=lf
+*.txt text eof=lf
+*.md text eof=lf
+Gemfile text eof=lf
+Gemfile.lock text eof=lf
+Vagrantfile text eof=lf
 
 *.png binary
 *.jpg binary
