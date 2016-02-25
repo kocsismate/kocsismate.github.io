@@ -5,7 +5,7 @@ url: "/"
 permalink: pretty
 encoding: "utf-8"
 
-highlighter: rogue
+highlighter: rouge
 paginate: 10
 exclude: ["_import", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
