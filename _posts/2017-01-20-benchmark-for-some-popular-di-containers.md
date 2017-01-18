@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Benchmark for some popular DI Containers"
-date:   2017-01-20 20:00:00
+title: "Benchmark for some popular DI Containers"
+date: 2017-01-20 20:00:00
 categories: php di benchmark
-tags: featured
+tags:
 image: /assets/article_images/night-track.jpg
 ---
 
@@ -63,36 +63,36 @@ advertised or recommended by the documentation and most probable to be used in t
 
 ## Results
 
-###Test Suite 1: "Cold" Retrieval of a small object graph (10 objects)
+### Test Suite 1: "Cold" Retrieval of a small object graph (10 objects)
 
 In this Test Suite, containers have to fetch an object graph of 10 objects (defined as Singletons) 10, 100 and 1000
 times. Autoloading and startup time of the containers are included in the measurements as well as autoloading time of
 the retrieved objects. That's why this Test Suite simulates production usage very well.
 
-###Test Suite 2: "Cold" Retrieval of a big object graph (100 objects)
+### Test Suite 2: "Cold" Retrieval of a big object graph (100 objects)
 
 In this Test Suite, containers have to fetch an object graph of 100 objects (defined as Singletons) 10, 100 and 1000
 times. Autoloading and startup time of the containers are included in the measurements as well as autoloading time of
 the retrieved objects. That's why this Test Suite simulates production usage very well.
 
-###Test Suite 3: "Semi-Warm" Instantiation of a small object graph (10 objects)
+### Test Suite 3: "Semi-Warm" Instantiation of a small object graph (10 objects)
 
 In this Test Suite, containers have to create an object graph of 10 objects (defined as Prototypes) 10, 100 and 1000
 times. Container autoloading time is excluded while startup time of the container and autoloading time of the retrieved
 objects are included in the measurements.
 
-###Test Suite 4: "Semi-Warm" Instantiation of a big object graph (100 objects)
+### Test Suite 4: "Semi-Warm" Instantiation of a big object graph (100 objects)
 
 In this Test Suite, containers have to create an object graph of 100 objects (defined as Prototypes) 10, 100 and 1000
 times. Container autoloading time is excluded while startup time of the container and autoloading time of the retrieved
 objects are included in the measurements.
 
-###Test Suite 5: "Warm" Fetching of the same small object graph (10 objects)
+### Test Suite 5: "Warm" Fetching of the same small object graph (10 objects)
   
 In this Test Suite, containers have to fetch an object graph of 10 objects (defined as Singletons) 100, 1000 and 10 000
 times. Neither autoloading time, nor startup time are included in the measurements.
 
-###Test Suite 6: "Warm" Fetching of the same big object graph (100 objects)
+### Test Suite 6: "Warm" Fetching of the same big object graph (100 objects)
 
 In this Test Suite, containers have to fetch an object graph of 100 objects (defined as Singletons) 100, 1000 and 10 000
 times. Neither autoloading time, nor startup time are included in the measurements.
