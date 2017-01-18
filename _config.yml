@@ -32,13 +32,6 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon: facebook
-    url:	
-    desc: 
-    share_url: //www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
-
   - icon: github
     url: https://github.com/kocsismate
     desc: Fork me on github

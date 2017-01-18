@@ -1,8 +1,5 @@
-# Handle line endings automatically for files detected as text
-# and leave all files detected as binary untouched.
 * text=auto
 
-# These files are text and should be normalized
 *.css text eof=lf
 *.js text eof=lf
 *.htm text diff=html

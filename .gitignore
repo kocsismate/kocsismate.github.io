@@ -1,6 +1,4 @@
 /.bundle
 .vagrant/
 .sass-cache/
-.DS_Store
-Gemfile.lock
 _site/
