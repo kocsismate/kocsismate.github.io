@@ -4,7 +4,7 @@ title: "Benchmark for some popular DI Containers"
 date: 2017-01-20 20:00:00
 categories: php di benchmark
 tags:
-image: /assets/2017-10-20-benchmark-for-some-popular-di-containers/container.jpg
+image: /assets/image/2017-10-20-benchmark-for-some-popular-di-containers/container.jpg
 ---
 
 In 2014, a really interesting benchmark about DI Containers for PHP was [published on Sitepoint][sitepoint-article].
