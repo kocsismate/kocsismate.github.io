@@ -4,7 +4,7 @@ title: "Benchmark for some popular DI Containers"
 date: 2017-01-20 20:00:00
 categories: php di benchmark
 tags:
-image: /assets/image/2017-10-20-benchmark-for-some-popular-di-containers/cover.jpg
+image: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/cover.jpg
 ---
 
 In 2014, a really interesting benchmark about DI Containers for PHP was [published on Sitepoint][sitepoint-article].
@@ -69,11 +69,11 @@ In this Test Suite, containers have to fetch an object graph of 10 objects (defi
 times. Autoloading and startup time of the containers are included in the measurements as well as autoloading time of
 the retrieved objects. That's why this Test Suite simulates production usage very well.
 
-![Results for test 1.1][results-1.1]
+![Results for test 1.1][results-11]
 
-![Results for test 1.2][results-1.2]
+![Results for test 1.2][results-12]
 
-![Results for test 1.3][results-1.3]
+![Results for test 1.3][results-13]
 
 ### Test Suite 2: "Cold" Retrieval of a big object graph (100 objects)
 
@@ -81,11 +81,11 @@ In this Test Suite, containers have to fetch an object graph of 100 objects (def
 times. Autoloading and startup time of the containers are included in the measurements as well as autoloading time of
 the retrieved objects. That's why this Test Suite simulates production usage very well.
 
-![Results for test 2.1][results-2.1]
+![Results for test 2.1][results-21]
 
-![Results for test 2.2][results-2.2]
+![Results for test 2.2][results-22]
 
-![Results for test 2.3][results-2.3]
+![Results for test 2.3][results-23]
 
 ### Test Suite 3: "Semi-Warm" Instantiation of a small object graph (10 objects)
 
@@ -93,11 +93,11 @@ In this Test Suite, containers have to create an object graph of 10 objects (def
 times. Container autoloading time is excluded while startup time of the container and autoloading time of the retrieved
 objects are included in the measurements.
 
-![Results for test 3.1][results-3.1]
+![Results for test 3.1][results-31]
 
-![Results for test 3.2][results-3.2]
+![Results for test 3.2][results-32]
 
-![Results for test 3.3][results-3.3]
+![Results for test 3.3][results-33]
 
 ### Test Suite 4: "Semi-Warm" Instantiation of a big object graph (100 objects)
 
@@ -105,33 +105,33 @@ In this Test Suite, containers have to create an object graph of 100 objects (de
 times. Container autoloading time is excluded while startup time of the container and autoloading time of the retrieved
 objects are included in the measurements.
 
-![Results for test 4.1][results-4.1]
+![Results for test 4.1][results-41]
 
-![Results for test 4.2][results-4.2]
+![Results for test 4.2][results-42]
 
-![Results for test 4.3][results-4.3]
+![Results for test 4.3][results-43]
 
 ### Test Suite 5: "Warm" Fetching of the same small object graph (10 objects)
   
 In this Test Suite, containers have to fetch an object graph of 10 objects (defined as Singletons) 100, 1000 and 10 000
 times. Neither autoloading time, nor startup time are included in the measurements.
 
-![Results for test 5.1][results-5.1]
+![Results for test 5.1][results-51]
 
-![Results for test 5.2][results-5.2]
+![Results for test 5.2][results-52]
 
-![Results for test 5.3][results-5.3]
+![Results for test 5.3][results-53]
 
 ### Test Suite 6: "Warm" Fetching of the same big object graph (100 objects)
 
 In this Test Suite, containers have to fetch an object graph of 100 objects (defined as Singletons) 100, 1000 and 10 000
 times. Neither autoloading time, nor startup time are included in the measurements.
 
-![Results for test 6.1][results-6.1]
+![Results for test 6.1][results-61]
 
-![Results for test 6.2][results-6.2]
+![Results for test 6.2][results-62]
 
-![Results for test 6.3][results-6.3]
+![Results for test 6.3][results-63]
 
 ## Conclusion
 
@@ -157,22 +157,22 @@ capabilities. Otherwise you can go with simpler containers.
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [composition-root]: http://blog.ploeh.dk/2011/07/28/CompositionRoot/
 
-[containers]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/containers.jpg
-[results-1.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.1.jpg
-[results-1.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.2.jpg
-[results-1.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.3.jpg
-[results-2.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-2.1.jpg
-[results-2.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-2.2.jpg
-[results-2.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-2.3.jpg
-[results-3.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-3.1.jpg
-[results-3.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-3.2.jpg
-[results-3.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-3.3.jpg
-[results-4.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-4.1.jpg
-[results-4.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-4.2.jpg
-[results-4.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-4.3.jpg
-[results-5.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-5.1.jpg
-[results-5.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-5.2.jpg
-[results-5.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-5.3.jpg
-[results-6.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-6.1.jpg
-[results-6.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-6.2.jpg
-[results-6.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-6.3.jpg
+[containers]:  /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/containers.jpg
+[results-11]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-11.jpg
+[results-12]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-12.jpg
+[results-13]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-13.jpg
+[results-21]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-21.jpg
+[results-22]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-22.jpg
+[results-23]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-23.jpg
+[results-31]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-31.jpg
+[results-32]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-32.jpg
+[results-33]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-33.jpg
+[results-41]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-41.jpg
+[results-42]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-42.jpg
+[results-43]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-43.jpg
+[results-51]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-51.jpg
+[results-52]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-52.jpg
+[results-53]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-53.jpg
+[results-61]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-61.jpg
+[results-62]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-62.jpg
+[results-63]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-63.jpg
