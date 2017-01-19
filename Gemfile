@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'bourbon'
-gem "jekyll", "~> 3.0.0"
+# 'github-pages' includes 'jekyll' gem 
 gem 'github-pages'
+gem 'bourbon'
+gem 'jemoji'

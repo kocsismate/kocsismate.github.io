@@ -1,4 +1,4 @@
-# Professional website of Máté Kocsis
+# Professional blog of Máté Kocsis
 
 ## Theme
 
