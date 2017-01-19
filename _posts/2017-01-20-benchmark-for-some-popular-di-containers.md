@@ -17,7 +17,7 @@ the benchmark or you want to add your container to the list, please create an [I
 
 The containers examined are listed below along with some of their attributes:
 
-![Containers][cover]
+![Containers][containers]
 
 I'll try to give a vague definition below for some of the aforementioned notions:
 
@@ -157,7 +157,7 @@ capabilities. Otherwise you can go with simpler containers.
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [composition-root]: http://blog.ploeh.dk/2011/07/28/CompositionRoot/
 
-[cover]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/containers.jpg
+[containers]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/containers.jpg
 [results-1.1]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.1.jpg
 [results-1.2]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.2.jpg
 [results-1.3]: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/results-1.3.jpg
