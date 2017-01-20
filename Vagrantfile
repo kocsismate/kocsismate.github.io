@@ -1,5 +1,5 @@
 Vagrant.configure(2) do |config|
-  config.vm.box = "ubuntu/vivid64"
+  config.vm.box = "ubuntu/yakkety64"
   config.vm.network "forwarded_port", guest: 4000, host: 4000
   config.vm.network "private_network", ip: "192.168.3.33",  name: "VirtualBox Host-Only Ethernet Adapter #10"
   config.ssh.forward_agent = true
