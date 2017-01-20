@@ -15,9 +15,23 @@ I have been interested in the topic since then so I wanted to finally conduct a 
 I tried to fix its flaws while keeping its many good parts. So here is my take! If you have any suggestion in mind about
 the benchmark or you want to add your container to the list, please create an [Issue or a Pull Request][github-repo].
 
-The containers examined are listed below along with some of their attributes:
+The examined containers are listed below along with some of their attributes:
 
-![The containers examined][containers]
+| Name               | Compiled/Dynamic | Autowiring    | Project URL                                                                                          |
+|--------------------|------------------|---------------|------------------------------------------------------------------------------------------------------|
+| Aura               | dynamic          | supported     | [github.com/auraphp/Aura.Di](https://github.com/auraphp/Aura.Di)                                     |
+| Auryn              | dynamic          | supported     | [github.com/rdlowrey/auryn](https://github.com/rdlowrey/auryn)                                       |
+| Dice               | dynamic          | supported     | [github.com/Level-2/Dice](https://github.com/Level-2/Dice)                                           |
+| Disco              | compiled         | not supported | [github.com/bitExpert/disco](https://github.com/bitExpert/disco)                                     |
+| Laravel            | dynamic          | supported     | [laravel.com/docs/5.3/container](https://laravel.com/docs/5.3/container)                             |
+| OpulenceIoc        | dynamic          | supported     | [opulencephp.com/docs/1.0/ioc-container](www.opulencephp.com/docs/1.0/ioc-container)                 |
+| PhpDi              | dynamic          | supported     | [php-di.org/](http://php-di.org/)                                                                    |
+| PHPixieDi          | dynamic          | not supported | [github.com/phpixie/di](https://github.com/phpixie/di)                                               |
+| Pimple             | dynamic          | not supported | [pimple.sensiolabs.org/](http://pimple.sensiolabs.org/ )                                             |
+| Symfony            | compiled         | supported     | [symfony.com/doc/3.2/...](symfony.com/doc/3.2/components/dependency_injection.html)                  |
+| Yaco               | compiled         | not supported | [github.com/thecodingmachine/yaco](https://github.com/thecodingmachine/yaco)                         |
+| Woohoo Labs. Zen   | compiled         | supported     | [github.com/woohoolabs/zen](https://github.com/woohoolabs/zen)                                       |
+| ZendServiceManager | dynamic          | not supported | [zendframework.github.io/zend-servicemanager/](https://zendframework.github.io/zend-servicemanager/) |
 
 I'll try to give a vague definition below for some of the aforementioned notions:
 
