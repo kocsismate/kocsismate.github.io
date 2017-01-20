@@ -31,7 +31,7 @@ The examined containers are listed below along with some of their attributes:
 | Symfony            | compiled         | supported       | [symfony.com/doc/3.2/components/...](http://symfony.com/doc/3.2/components/dependency_injection.html)  |
 | Yaco               | compiled         | not supported   | [github.com/thecodingmachine/yaco](https://github.com/thecodingmachine/yaco)                           |
 | Zen                | compiled         | supported       | [github.com/woohoolabs/zen](https://github.com/woohoolabs/zen)                                         |
-| ZendServiceManager | dynamic          | not supported   | [zendframework.github.io/zend-servicemanager/](https://zendframework.github.io/zend-servicemanager/)   |
+| ZendServiceManager | dynamic          | not supported   | [zendframework.github.io/...](https://zendframework.github.io/zend-servicemanager/)                    |
 
 I'll try to give a vague definition below for some of the aforementioned notions:
 
