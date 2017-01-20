@@ -13,7 +13,7 @@ itself wasn't very insightful.
 
 I have been interested in the topic since then so I wanted to finally conduct a better benchmark than the last one was:
 I tried to fix its flaws while keeping its many good parts. So here is my take! If you have any suggestion in mind about
-the benchmark or you want to add your container to the list, please create an [Issue or a Pull Request][github-repo].
+the benchmark or you want to add your container to the list, please create an issue or a PR [in the repo][github-repo].
 
 The examined containers are listed below along with some of their attributes:
 
@@ -30,7 +30,7 @@ The examined containers are listed below along with some of their attributes:
 | Pimple             | dynamic          | not supported   | [pimple.sensiolabs.org/](http://pimple.sensiolabs.org/ )                                               |
 | Symfony            | compiled         | supported       | [symfony.com/doc/3.2/components/...](http://symfony.com/doc/3.2/components/dependency_injection.html)  |
 | Yaco               | compiled         | not supported   | [github.com/thecodingmachine/yaco](https://github.com/thecodingmachine/yaco)                           |
-| Woohoo Labs. Zen   | compiled         | supported       | [github.com/woohoolabs/zen](https://github.com/woohoolabs/zen)                                         |
+| Zen                | compiled         | supported       | [github.com/woohoolabs/zen](https://github.com/woohoolabs/zen)                                         |
 | ZendServiceManager | dynamic          | not supported   | [zendframework.github.io/zend-servicemanager/](https://zendframework.github.io/zend-servicemanager/)   |
 
 I'll try to give a vague definition below for some of the aforementioned notions:
