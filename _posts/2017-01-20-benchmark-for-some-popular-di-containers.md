@@ -11,7 +11,8 @@ In 2014, a really interesting benchmark about DI Containers for PHP was [publish
 Unfortunately, the [implementation][old-benchmark] of the tests turned out to be quite controversial, so the benchmark
 itself wasn't very insightful.
 
-I have been interested in the topic since then so I wanted to finally conduct a better benchmark than the last one was:
+I have been interested in the topic since then - and my curiosity was just growing after I had started to develop my own DI container,
+Zen - so I wanted to finally conduct a better benchmark than the last one was:
 I tried to fix its flaws while keeping its many good parts. So here is my take! If you have any suggestion in mind about
 the benchmark or you want to add your container to the list, please create an issue or a PR [in the repo][github-repo].
 
