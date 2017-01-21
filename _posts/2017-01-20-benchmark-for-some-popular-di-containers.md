@@ -26,7 +26,7 @@ The examined containers are listed below along with some of their attributes:
 | Disco               | compiled         | not supported   | [github.com/bitExpert/disco](https://github.com/bitExpert/disco)                                       |
 | Laravel             | dynamic          | supported       | [laravel.com/docs/5.3/container](https://laravel.com/docs/5.3/container)                               |
 | Opulence IoC        | dynamic          | supported       | [opulencephp.com/docs/1.0/ioc-container](www.opulencephp.com/docs/1.0/ioc-container)                   |
-| PhpDi               | dynamic          | supported       | [php-di.org/](http://php-di.org/)                                                                      |
+| PHP-DI               | dynamic          | supported       | [php-di.org/](http://php-di.org/)                                                                      |
 | PHPixie DI          | dynamic          | not supported   | [github.com/phpixie/di](https://github.com/phpixie/di)                                                 |
 | Pimple              | dynamic          | not supported   | [pimple.sensiolabs.org/](http://pimple.sensiolabs.org/ )                                               |
 | Symfony             | compiled         | supported       | [symfony.com/doc/3.2/components/...](http://symfony.com/doc/3.2/components/dependency_injection.html)  |
