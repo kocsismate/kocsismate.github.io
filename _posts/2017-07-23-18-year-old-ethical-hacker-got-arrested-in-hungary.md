@@ -63,9 +63,9 @@ said Mr. Kálmán Dabóczi, CEO of BKK Zrt. (the above text is a paraphrase). Ho
 attacks and trolling attempts against the website. Mr. Balázs Szeneczey, vice mayor of Budapest announced that
 T-System Hungary Zrt. has already reported an attacker to the police.
 
-Then it came out that the aforementioned "attacker" is a 18-year-old kid almost without any computer education who
-discovered that tickets can be bought [for any price you want](#security-gone-wrong) and who **immediately** reported this
-bug to the public transportation company. The next day, this young guy was **arrested by the police early in
+Then it came out that the aforementioned "attacker" is a 18-year-old kid almost without any computer education. He was
+the one who discovered that tickets can be bought [for any price you want](#security-gone-wrong) and who **immediately**
+reported this bug to the public transportation company. The next day, the young guy was **arrested by the police early in
 the morning**.
 
 Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that "the developer company had
