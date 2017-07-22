@@ -40,9 +40,9 @@ IT knowledge
 - As there is currently no possibility to delete your account on the website itself, you can ask the IT Support to do so,
 and they were willing to perform the action without any verification, even though you wrote them from a different email
 address from the one you had registered with
-- You could modify the price of the ticket by changing the value of the price input field on the checkout page which shows
-that the price wasn't validated properly on the server-side so this monthly Budapest-pass could be bought by 50 HUF instead
-of 9 500 HUF (roughly 30 EUR):
+- You could modify the price of the ticket by changing the value of the price input field on the checkout page which
+indicates that the price wasn't validated properly on the server-side so this monthly Budapest-pass could be bought by
+50 HUF instead of 9 500 HUF (roughly 30 EUR):
 ![A monthly Budapest-pass bought by 50 HUF instead of 9 500 HUF (roughly 30 EUR)][bkk-ticket]
 - You can fake the digital ticket so that you can easily pass the validation at the ticket controllers because very few
 of them have QR code readers.
