@@ -41,7 +41,7 @@ IT knowledge
 and they were willing to perform the action without any verification, even though you wrote them from a different email address
 from the one you had registered with
 - You could modify the price of the ticket by changing the value of the price field on the checkout page which shows that
-there was no server-side validation of the price
+there the price wasn't validated properly on the server-side
 ![A monthly Budapest-pass bought by 50 HUF instead of 9 500 HUF (roughly 30 EUR)][bkk-ticket]
 - You can fake the digital ticket so that you can easily pass the validation at the controllers because very few of them
 have QR code readers.
@@ -78,11 +78,11 @@ but let's continue the original story with the fun part.
 ## People gone mad
 
 The news about arresting the young ethical hacker drove people crazy and a mass mysteria soon broke out throughout Hungary.
-People wanted to have revenge on BKK and T-Systems, so they started to rate these companies on Facebook. Yesterday at 3 p.m.
+People wanted to take revenge on BKK and T-Systems, so they started to rate these companies on Facebook. Yesterday at 3 p.m.
 there were more than 1500 one-star ratings on the [official Facebook page of BKK][bkk-facebook], most of them also
-blaming the two companies for their unprofessional attitude in the added comments. An the time of writing (22nd July at 10 p.m)
-this number increased up to **44 000 one-star**, while the [official Facebook page of the German T-Systems][t-systems-de-facebook] 
-received more than 5000 one-stars (unfortunately [the Hungarian page][t-systems-hu-facebook] can't be rated)!
+blaming the two companies for their unprofessional attitude in the added comments. At the time of writing (22nd July at 10 p.m)
+this number increased up to **44 000 one stars**, while the [official Facebook page of the German T-Systems][t-systems-de-facebook] 
+received more than 5000 one stars (unfortunately [the Hungarian page][t-systems-hu-facebook] can't be rated)!
 
 ![44K one-star ratings!][bkk-rating]
 
@@ -93,11 +93,11 @@ below:
 
 !["Fucking hackers!"][bkk-meme1]
 
+> Fucking hackers!
+
 But my personal favourite is [this one][bkk-meme2-facebook]:
 
 ![Grade "F" for the marketing division of BKK"!][bkk-meme2]
-
-The text on the top says:
 
 > - Mr. Teacher, I didn't study, please give me grade "F"!
 > - Will be 17 000 pieces of it enough?
