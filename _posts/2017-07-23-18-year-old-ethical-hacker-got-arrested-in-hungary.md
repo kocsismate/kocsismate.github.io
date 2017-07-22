@@ -16,10 +16,10 @@ see first what have just happened in Hungary!
 
 [T-Systems Hungary][t-systems-hu-website] (which is owned by [Magyar Telekom Nyrt.][telekom-website] which is owned by
 [T-Systems][t-systems-de-website]) developed a web application for the public transportation company of Budapest
-([BKK Zrt.][bkk-website]) which was opened for the masses on the 14th July.
+([BKK Zrt.][bkk-website]) that was opened for the masses on the 14th July.
 
 This application is an online shop of tickets and monthly Budapest-passes. The digital tickets you buy from here can be
-shown on your smart phones to the controller personnel until the fully electronic ticket system ([RIGO][rigo-website])
+shown on your smart phones to the ticket controller personnel until the fully electronic ticket system ([RIGO][rigo-website])
 is deployed in Budapest (this is expected at the end of 2018). This is great news, and I feel that we are finally
 reaching the technology level of the 21st century!
 
@@ -33,7 +33,7 @@ severe security vulnerabilities and usability problems have been found. Here the
 - The CAPTCHA on the registration form is [ridiculous][bkk-captcha-twitter]
 ![So called "CAPTCHA" protection][bkk-captcha]
 - Your email address didn't have to be verified so you could spam anybody you want
-- Your password used to be sent out directly in mail if you had forgotten your password
+- Your password used to be sent out directly in unencrypted mail if you had forgotten your password
 - Password fields used to be filled out when editing your personal details
 - You used to be able to get access to personal details (including the password) of other registered users with limited
 IT knowledge
@@ -72,8 +72,8 @@ to report the event 'which reached a certain level' to the police because of a s
 "they were very sad to hear that the suspect is such a young student who seemed to have good intentions based on his
 interviews in the media".
 
-This is just insane. Arresting an ethical hacker for helping a company out? I'll write about this topic more a bit later,
-but let's continue the original story with the fun part.
+This is just insane. Arresting an ethical hacker for helping a company out? I'll write more about this topic a bit later,
+but let's just continue the original story with the fun part!
 
 ## People gone mad
 
@@ -86,7 +86,7 @@ received more than 5000 one stars (unfortunately [the Hungarian page][t-systems-
 
 ![44K one-star ratings!][bkk-rating]
 
-Furthermore, probably real hackers were also enraged so they supposedly made the [website of the BKK][bkk-website]
+Furthermore, probably real hackers were also enraged so they supposedly made the [website of BKK][bkk-website]
 unavailable for an extensive period of time by continuous (D)DoS attacks. In the meanwhile, people started to create
 memes from the incident thus further mocking and shaming these companies. You can find [a classic one][bkk-meme1-facebook]
 below:
