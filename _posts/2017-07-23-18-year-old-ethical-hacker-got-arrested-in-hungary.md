@@ -33,7 +33,7 @@ severe security vulnerabilities and usability problems have been found. Here the
 - The CAPTCHA on the registration form is [ridiculous][bkk-captcha-twitter]
 ![So called "CAPTCHA" protection][bkk-captcha]
 - Your email address didn't have to be verified so you could spam anybody you want
-- Your password used to be sent out directly in mail if you forgot your password
+- Your password used to be sent out directly in mail if you had forgotten your password
 - Password fields used to be filled out when editing your personal details
 - You used to be able to get access to personal details (including the password) of other registered users with limited
 IT knowledge
@@ -41,7 +41,7 @@ IT knowledge
 and they were willing to perform the action without any verification, even though you wrote them from a different email address
 from the one you had registered with
 - You could modify the price of the ticket by changing the value of the price field on the checkout page which shows that
-there was no server-side validation of the price (but I don't understand why do they even send it in a form?)
+there was no server-side validation of the price
 ![A monthly Budapest-pass bought by 50 HUF instead of 9 500 HUF (roughly 30 EUR)][bkk-ticket]
 - You can fake the digital ticket so that you can easily pass the validation at the controllers because very few of them
 have QR code readers.
@@ -62,12 +62,12 @@ said Mr. Kálmán Dabóczi, CEO of BKK Zrt. (the above text is a paraphrase). Ho
 attacks and trolling attempts against the website. Mr. Balázs Szeneczey, vice mayor of Budapest announced that
 T-System Hungary Zrt. has already reported an attacker to the police.
 
-Meanwhile it came out that the aforementioned "attacker" is a 18-year-old kid almost without any computer education who
+Then it came out that the aforementioned "attacker" is a 18-year-old kid almost without any computer education who
 discovered that tickets can be bought [for any price you want](#security-gone-wrong) and who **immediately** reported this
-bug to the public transportation company. Not long afterwards, this young guy was **arrested by the police early in
+bug to the public transportation company. The next day, this young guy was **arrested by the police early in
 the morning**.
 
-A day later, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that "the developer company had
+Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that "the developer company had
 to report the event 'which reached a certain level' to the police because of a strict internal policy." They added that
 "they were very sad to hear that the suspect is such a young student who seemed to have good intentions based on his
 interviews in the media".
@@ -87,19 +87,19 @@ received more than 5000 one-stars (unfortunately [the Hungarian page][t-systems-
 ![44K one-star ratings!][bkk-rating]
 
 Furthermore, probably real hackers were also enraged so they supposedly made the [website of the BKK][bkk-website]
-unavailable for an extensive period of time by continuous (D)DOS attacks. In the meanwhile, people started to create
-memes from the incident thus further mocking and shaming these companies. You can find [one][bkk-meme1-facebook] below
-(which is not even the funniest):
+unavailable for an extensive period of time by continuous (D)DoS attacks. In the meanwhile, people started to create
+memes from the incident thus further mocking and shaming these companies. You can find [a classic one][bkk-meme1-facebook]
+below:
 
 !["Fucking hackers!"][bkk-meme1]
 
-My personal favourite is [this one][bkk-meme2-facebook]:
+But my personal favourite is [this one][bkk-meme2-facebook]:
 
 ![Grade "F" for the marketing division of BKK"!][bkk-meme2]
 
 The text on the top says:
 
-> - Mr. Teacher, I didn't study, please give me a grade "F"!
+> - Mr. Teacher, I didn't study, please give me grade "F"!
 > - Will be 17 000 pieces of it enough?
 
 Background: the worst grade one can receive in Hungary is "1", while the best one is "5".
@@ -145,7 +145,7 @@ You can read the full story [here][index-bkk-tag] (unfortunately all the article
 [github-bounty]: https://bounty.github.com
 
 [bkk-app]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-app.jpg
-[bkk-sll]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-ssl.jpg
+[bkk-ssl]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-ssl.jpg
 [bkk-captcha]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-captcha.jpg
 [bkk-ticket]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-ticket.jpg
 [bkk-rating]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-rating.jpg
