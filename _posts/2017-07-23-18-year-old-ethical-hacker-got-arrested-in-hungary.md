@@ -15,7 +15,7 @@ happened in Hungary!
 ## Security gone wrong
 
 [T-Systems Hungary][t-systems-hu-website] (which is owned by [Magyar Telekom Nyrt.][telekom-website] which is owned by
-[Deutsche Telekom][deutsche-telekom-website]) developed an online shop for tickets and monthly Budapest-passes for the public
+[Deutsche Telekom][deutsche-telekom-website]) developed an online shop for tickets and monthly passes for the public
 transportation company of Budapest ([BKK Zrt.][bkk-website]) that was made available for the masses on 14th July.
 
 ![BKK Online shop][bkk-app]
