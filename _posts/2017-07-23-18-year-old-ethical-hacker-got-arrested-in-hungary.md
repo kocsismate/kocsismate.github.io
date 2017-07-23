@@ -68,10 +68,13 @@ the one who discovered that tickets can be bought [for any price you want](#secu
 reported this bug to the public transportation company. The next day, the young guy was **arrested by the police early in
 the morning**.
 
-Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that "the developer company had
-to report the event 'which reached a certain level' to the police because of a strict internal policy." They added that
-"they were very sad to hear that the suspect is such a young student who seemed to have good intentions based on his
-interviews in the media".
+Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that
+
+> The developer company had to report the event "which reached a certain level" to the police because of a strict internal
+policy.
+
+They added that they were very sad to hear that the suspect is such a young student who seemed to have good intentions
+based on his interviews in the media.
 
 This is just insane. Arresting an ethical hacker for helping a company out? I'll write more about this topic a bit later,
 but let's just continue the original story with the fun part!
