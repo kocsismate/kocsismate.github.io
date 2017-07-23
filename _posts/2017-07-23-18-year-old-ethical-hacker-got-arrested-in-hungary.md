@@ -57,7 +57,7 @@ But this isn't the worst part of the story. The real horror will just come!
 
 T-Systems Hungary - the developer of the application - denied that any security vulnerability has been exploited:
 
-> There's no evidence of that anybody's password or personal data would have been compromised
+> There's no evidence that anybody's password or personal data would have been compromised
 
 said Mr. Kálmán Dabóczi, CEO of BKK Zrt. (the above text is a paraphrase). However, he admitted that there were several
 attacks and trolling attempts against the website. Mr. Balázs Szeneczey, vice mayor of Budapest announced that
