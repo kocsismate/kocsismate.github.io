@@ -85,7 +85,7 @@ People wanted to take revenge on BKK and T-Systems so they started to rate these
 than 1500 one-star ratings on the [official Facebook page of BKK][bkk-facebook] yesterday at 3 p.m., most of them also
 blaming the two companies for their unprofessional attitude in the added comments. At the time of writing (22nd July at 10 p.m)
 this number increased up to **44 000 one stars**, while the [official Facebook page of the German T-Systems][t-systems-de-facebook] 
-received more than 5000 one stars (unfortunately they have nothing to do with [the Hungarian page][t-systems-hu-facebook])!
+received more than 5000 one stars (unfortunately they have nothing to do with [the Hungarian company][t-systems-hu-facebook])!
 
 ![44K one-star ratings!][bkk-rating]
 
