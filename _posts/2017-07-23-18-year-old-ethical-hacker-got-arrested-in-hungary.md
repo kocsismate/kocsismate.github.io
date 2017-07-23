@@ -18,12 +18,12 @@ happened in Hungary!
 [T-Systems][t-systems-de-website]) developed a web application for the public transportation company of Budapest
 ([BKK Zrt.][bkk-website]) that was opened for the masses on the 14th July.
 
+![BKK Online shop][bkk-app]
+
 This application is an online shop of tickets and monthly Budapest-passes. The digital tickets you buy from here can be
-shown on your smart phones to the ticket controller personnel until the fully electronic ticket system ([RIGO][rigo-website])
+shown on your smart phone to the ticket controller personnel until the fully electronic ticket system ([RIGO][rigo-website])
 is deployed in Budapest (this is expected at the end of 2018). This is great news, and I feel that we are finally
 reaching the technology level of the 21st century!
-
-![BKK Online shop][bkk-app]
 
 What's the catch then? Unfortunately, the devil is in the details, so during the first week of operation, many-many
 severe security vulnerabilities and usability problems have been found. Here they are without the need for completeness:
