@@ -126,7 +126,8 @@ He also promised to set up a bug bounty program, like most of the [better compan
 
 Although the story isn't finished yet, it is likely that it will have happy-ending: security holes of the application
 will be fixed, our young ethical hacker will get kind rewards ([Green Fox Academy][greenfox-website] have already
-[offered him scholarship][greenfox-facebook]), maybe people responsible for the arrest will get some kind of prosecution.
+[offered him scholarship][greenfox-facebook]), maybe people responsible for the arrest will also get some kind of
+prosecution.
 
 ## Conclusion
 
@@ -134,9 +135,10 @@ So what is to be learnt from the story?
 
 First, never ever spare time and money on fundamental security. ...
 
-Then if something yet goes bad, be brave ...
+Then if something yet goes bad, be brave and take responsibility. ...
 
-Furthermore, it is astonishing to see the power of social networks.
+Furthermore, it was astonishing to see the power of Facebook. I am certain that BKK and T-Systems would have never asked
+for apology if people hadn't started war on the internet. ...
 
 ## Media coverage
 
