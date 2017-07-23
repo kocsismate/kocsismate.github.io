@@ -2,8 +2,8 @@
 layout: post
 title: "Benchmark for some popular DI Containers"
 date: 2017-01-20 20:00:00
-categories: php di benchmark
-tags:
+categories: php
+tags: di benchmark
 image: /assets/image/2017-01-20-benchmark-for-some-popular-di-containers/cover.jpg
 ---
 

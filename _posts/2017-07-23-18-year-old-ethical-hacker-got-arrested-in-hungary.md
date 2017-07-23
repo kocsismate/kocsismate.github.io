@@ -2,8 +2,8 @@
 layout: post
 title: "18-year-old ethical hacker got arrested in Hungary"
 date: 2017-07-23 20:00:00
-categories: security social-justice
-tags:
+categories: security
+tags: social-justice
 image: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/cover.jpg
 ---
 
