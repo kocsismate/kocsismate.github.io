@@ -73,7 +73,7 @@ Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which 
 > The event "which reached a certain level" had to be reported to the police because of a strict internal
 policy of the developer company.
 
-They added that they it is very sad to hear that the suspect is such a young student who seemed to have good intentions
+They added that it is very sad to hear that the suspect is such a young student who seemed to have good intentions
 based on his interviews in the media.
 
 This is just insane. Arresting an ethical hacker for helping a company out? I'll write more about this topic a bit later,
