@@ -8,9 +8,9 @@ image: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hunga
 ---
 
 I am writing this blog post because I haven't found any news in the international media about the recent technology-related
-scandal in Hungary, and my intention is to draw attention to the topic, and raise awareness of the importance of security
-and proper crisis management when something goes really bad as well as praise the power of the freedom of speech. So let's
-see first what have just happened in Hungary!
+scandal in Hungary, and I want to draw attention to the topic while raising awareness of the importance of information
+security and proper crisis management as well as praising the power of social networks. So let's see first what have just
+happened in Hungary!
 
 ## Security gone wrong
 
