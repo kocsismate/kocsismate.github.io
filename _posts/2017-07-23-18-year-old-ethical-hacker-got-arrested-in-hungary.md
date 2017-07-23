@@ -44,7 +44,7 @@ indicates that the price wasn't validated properly on the server-side. That's wh
 could be bought for 50 HUF (~ 0.15 EUR) instead of 9 500 HUF (roughly 30 EUR):
 ![A monthly Budapest-pass bought for 50 HUF instead of 9 500 HUF (roughly 30 EUR)][bkk-ticket]
 - Icing on the cake is that only a very few of the ticket controllers have QR code readers so they can basically be
-bypassed using any faked tickets
+bypassed using fake tickets
 
 All in all, this website is a complete parody of information security, a real counterexample of responsible data handling.
 This level of negligence just isn't acceptable in 2017 when half of our life is online. Moreover, tens of thousands
