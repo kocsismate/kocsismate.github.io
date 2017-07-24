@@ -28,8 +28,8 @@ Unfortunately the devil is in the details, so during the first week of operation
 and usability problems have been discovered. Here they are without the need for completeness:
 
 - The SSL connection of the site got the worst, "F" rate on [SSL Labs][bkk-ssl-report]
-!["F" rate on SSL Labs][bkk-ssl] (the report might not be available now because SSL Labs was apparently blocked from
-accessing the webshop)
+!["F" rate on SSL Labs][bkk-ssl] (the report might not be available now because SSL Labs has been apparently blocked from
+accessing the website since it hit the news)
 - The CAPTCHA on the registration form is [ridiculous][bkk-captcha-twitter]
 ![So called "CAPTCHA" protection][bkk-captcha]
 - Email addresses weren't verified which allowed potential abuse
