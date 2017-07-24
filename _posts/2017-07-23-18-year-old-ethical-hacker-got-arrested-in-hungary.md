@@ -28,7 +28,8 @@ Unfortunately the devil is in the details, so during the first week of operation
 and usability problems have been discovered. Here they are without the need for completeness:
 
 - The SSL connection of the site got the worst, "F" rate on [SSL Labs][bkk-ssl-report]
-!["F" rate on SSL Labs][bkk-ssl]
+!["F" rate on SSL Labs][bkk-ssl] (the report might not be available now because SSL Labs was apparently blocked from
+accessing the webshop)
 - The CAPTCHA on the registration form is [ridiculous][bkk-captcha-twitter]
 ![So called "CAPTCHA" protection][bkk-captcha]
 - Email addresses weren't verified which allowed potential abuse
@@ -133,14 +134,21 @@ while BKK and T-Systems have already been suited on court because of misusing of
 
 So what is to be learnt from the story?
 
-First, never ever spare time and money on fundamental security. But I don't believe T-Systems wanted to save a little money
-on the development. It's much more likely that their developers were simple not aware of many current practices. It
-should be part of the common sense by 2017 for a long time to hash passwords appropriately when storing them.
-It's unbelievable that they slept through the last 10 years and didn't know about it.
+First of all, never ever try to spare resources on fundamental security. It will cost much more money in the end if you
+screw up. I think fortunately that it is evident for lots of companies by now. The main problem I see however is that
+many organizations are usually uninterested in fixing old security problems because they are either in a rush for money
+(thus prioritizing the development of new features), or don't see much added value of fixing something "that has been
+working well for ages" or just have no idea what the problem is.
 
-It also confirms my point of view that software developers should be regulated as thorougly as other engineering professionals.
-We should set our standards to a much higher level in quality, reliability and security than we currently do. Fortunately,
-the progress we have been seeing in last last decades is really promising, but we still have a long way to go.
+To be honest, I don't believe T-Systems Hungary wanted to save a little bit of money on development. It's much more
+likely that their developers were simple not aware of the "state of the art" in information security, although there are
+so many great materials about the topic (please let me recommend you my favourite sources: [Troy Hunt's][troy-hunt-blog],
+[Scott Helme's][scott-helme-blog] and the [Paragon Initiative Enterprises'][paragonie-blog] blog).
+
+This case also confirms my point of view that software developers should be regulated as thorougly as other engineering
+professionals. We should set our standards to a much higher level of quality, reliability and security than we currently
+do. Fortunately, the progress we have been seeing in last last decades is really promising, but we still have a long way
+to go.
 
 Another moral of the story is that if something goes really bad, be brave and take responsibility. This should be quite
 natural for everybody, but apparently there are some people who just can't do it. The point is that if you screw up,
@@ -151,7 +159,7 @@ Let's see when a GitLab employee [accidentally deleted their production database
 This incident was also extremely embarrassing but they communicated everything so openly (they streamed the resolution
 on Twitter, then wrote a very nice [postmortem][gitlab-postmortem], and tried to convince us that they do everything in
 order to prevent to commit this mistake again) so they actually gained the sympathy of people, and finally many of them
-said **sthank you** to GitLab for being so open.
+said **thank you** to GitLab for being so open.
 
 Furthermore, it was astonishing to see the power of Facebook. I am certain that BKK and T-Systems would have never asked
 for apology if people hadn't started war on the internet. ...
@@ -178,6 +186,9 @@ You can read the full story [here][index-bkk-tag] (unfortunately all the article
 [greenfox-facebook]: https://www.facebook.com/greenfoxacademy/posts/2035341296693791
 [gitlab-incident]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
 [gitlab-postmortem]: https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/
+[troy-hunt-blog]: https://troyhunt.com
+[scott-helme-blog]: https://scotthelme.co.uk/
+[paragonie-blog]: https://paragonie.com/blog
 
 [bkk-app]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-app.jpg
 [bkk-ssl]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-ssl.jpg
