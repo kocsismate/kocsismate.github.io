@@ -135,13 +135,13 @@ while BKK and T-Systems have already been suited on court because of misusing of
 So what is to be learnt from the story?
 
 First of all, never ever try to spare resources on fundamental security. It will cost much more money in the end if you
-screw up. I think fortunately that it is evident for lots of companies by now. The main problem I see however is that
-many organizations are usually uninterested in fixing old security problems because they are either in a rush for money
-(thus prioritizing the development of new features), or don't see much added value of fixing something "that has been
+screw up. In my opinion it is fortunately evident for lots of companies by now. The main problem I see however is that
+many organizations are usually uninterested in fixing old security vulnerabilities because they are either in a rush for
+money (thus preferring to develop new features), or don't see much added value of fixing something "that has been
 working well for ages" or just have no idea what the problem is.
 
 To be honest, I don't believe T-Systems Hungary wanted to save a little bit of money on development. It's much more
-likely that their developers were simple not aware of the "state of the art" in information security, although there are
+likely that their developers were simply not aware of the "state of the art" in information security, although there are
 so many great materials about the topic (please let me recommend you my favourite sources: [Troy Hunt's][troy-hunt-blog],
 [Scott Helme's][scott-helme-blog] and the [Paragon Initiative Enterprises'][paragonie-blog] blog).
 
