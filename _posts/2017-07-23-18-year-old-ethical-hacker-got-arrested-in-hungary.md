@@ -43,8 +43,8 @@ address from the one you had registered with
 indicates that the price wasn't validated properly on the server-side. That's why the following monthly Budapest-pass
 could be bought for 50 HUF (~ 0.15 EUR) instead of 9 500 HUF (roughly 30 EUR):
 ![A monthly Budapest-pass bought for 50 HUF instead of 9 500 HUF (roughly 30 EUR)][bkk-ticket]
-- Icing on the cake is that only a very few of the ticket controllers have QR code readers so they can basically be
-bypassed using fake tickets
+- Icing on the cake is that only a very few of the ticket controllers have QR code readers so they can be bypassed
+easily using fake tickets
 
 All in all, this website is a complete parody of information security, a real counterexample of responsible data handling.
 This level of negligence just isn't acceptable in 2017 when half of our life is online. Moreover, tens of thousands
@@ -124,18 +124,34 @@ possibility to work together if he is open to it.
 
 He also promised to set up a bug bounty program, like most of the [better companies do][github-bounty].
 
-Although the story isn't finished yet, it is likely that it will have happy-ending: security holes of the application
-will be fixed, our young ethical hacker will get kind rewards ([Green Fox Academy][greenfox-website] have already
-[offered him scholarship][greenfox-facebook]), maybe people responsible for the arrest will also get some kind of
-prosecution.
+Although the story isn't finished yet, it is likely that it will have happy-ending: security holes in the application
+will be fixed, our young ethical hacker will get kind rewards ([Green Fox Academy][greenfox-website] has already
+[offered him scholarship][greenfox-facebook]), people responsible for his arrest will probably get some kind of prosecution,
+while BKK and T-Systems have already been suited on court because of misusing of personal data.
 
 ## Conclusion
 
 So what is to be learnt from the story?
 
-First, never ever spare time and money on fundamental security. ...
+First, never ever spare time and money on fundamental security. But I don't believe T-Systems wanted to save a little money
+on the development. It's much more likely that their developers were simple not aware of many current practices. It
+should be part of the common sense by 2017 for a long time to hash passwords appropriately when storing them.
+It's unbelievable that they slept through the last 10 years and didn't know about it.
 
-Then if something yet goes bad, be brave and take responsibility. ...
+It also confirms my point of view that software developers should be regulated as thorougly as other engineering professionals.
+We should set our standards to a much higher level in quality, reliability and security than we currently do. Fortunately,
+the progress we have been seeing in last last decades is really promising, but we still have a long way to go.
+
+Another moral of the story is that if something goes really bad, be brave and take responsibility. This should be quite
+natural for everybody, but apparently there are some people who just can't do it. The point is that if you screw up,
+you still have one very last chance: to stand up, be honest and apologize for your mistake.
+
+People are usually very understanding because many of them can imagine themselves being in the same situation as you.
+Let's see when a GitLab employee [accidentally deleted their production database][gitlab-incident] for a great example.
+This incident was also extremely embarrassing but they communicated everything so openly (they streamed the resolution
+on Twitter, then wrote a very nice [postmortem][gitlab-postmortem], and tried to convince us that they do everything in
+order to prevent to commit this mistake again) so they actually gained the sympathy of people, and finally many of them
+said **sthank you** to GitLab for being so open.
 
 Furthermore, it was astonishing to see the power of Facebook. I am certain that BKK and T-Systems would have never asked
 for apology if people hadn't started war on the internet. ...
@@ -160,6 +176,8 @@ You can read the full story [here][index-bkk-tag] (unfortunately all the article
 [github-bounty]: https://bounty.github.com
 [greenfox-website]: https://www.en.greenfoxacademy.com/
 [greenfox-facebook]: https://www.facebook.com/greenfoxacademy/posts/2035341296693791
+[gitlab-incident]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
+[gitlab-postmortem]: https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/
 
 [bkk-app]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-app.jpg
 [bkk-ssl]: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hungary/bkk-ssl.jpg
