@@ -10,7 +10,7 @@ image: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hunga
 I am writing this blog post because I haven't found any news in the international media about the recent technology-related
 scandal in Hungary, and I want to draw attention to the topic while raising awareness of the importance of information
 security and proper crisis management as well as praising the power of social networks. So let's see first what kind
-of craziness have just happened in Hungary!
+of craziness has just happened in Hungary!
 
 ## Security gone wrong
 
