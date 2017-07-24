@@ -162,10 +162,10 @@ order to prevent to commit this mistake again) so they actually gained the sympa
 said **thank you** to GitLab for being so open.
 
 The last thing I'd like to highlight is the power of Facebook. It's amazing how powerful it grew in some years.
-I am certain that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet,
-although it's really sad that the fear from the fury on the internet was their main motivator to admit the issues with
-their system and finally publicly apologize. It is fascinating to experience that Facebook is not only suitable for
-spreading "fake news", but in the same time it can  
+I am certain that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet.
+Although it's really sad that the fear from the online fury was their main motivator to admit the issues with their
+system. The really fascinating thing about Facebook is to experience that it is not only suitable for spreading "fake news",
+but it can actually force certain people to back off from constant lying.
 
 ## Media coverage
 
