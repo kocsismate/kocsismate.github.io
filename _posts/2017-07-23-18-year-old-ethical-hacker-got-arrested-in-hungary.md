@@ -9,8 +9,8 @@ image: /assets/image/2017-07-23-18-year-old-ethical-hacker-got-arrested-in-hunga
 
 I am writing this blog post because I haven't found any news in the international media about the recent technology-related
 scandal in Hungary, and I want to draw attention to the topic while raising awareness of the importance of information
-security and proper crisis management as well as praising the power of social networks. So let's see first what have just
-happened in Hungary!
+security and proper crisis management as well as praising the power of social networks. So let's see first what kind
+of craziness have just happened in Hungary!
 
 ## Security gone wrong
 
@@ -135,34 +135,37 @@ while BKK and T-Systems have already been suited on court because of misusing of
 So what is to be learnt from the story?
 
 First of all, never ever try to spare resources on fundamental security. It will cost much more money in the end if you
-screw up. In my opinion it is fortunately evident for lots of companies by now. The main problem I see however is that
-many organizations are usually uninterested in fixing old security vulnerabilities because they are either in a rush for
-money (thus preferring to develop new features), or don't see much added value of fixing something "that has been
-working well for ages" or just have no idea what the problem is.
+screw up. In my opinion it is evident for lots of companies by now. The main problem I see however is that
+many organizations are usually uninterested in fixing long-standing security vulnerabilities because they are either in
+a rush for money (thus preferring to develop new features), or don't see much added value of fixing something "that has
+been working well for ages" or just have no idea what the problem is.
 
 To be honest, I don't believe T-Systems Hungary wanted to save a little bit of money on development. It's much more
-likely that their developers were simply not aware of the "state of the art" in information security, although there are
+likely that their developers were simply not aware of the "state of the art" in security practices, although there are
 so many great materials about the topic (please let me recommend you my favourite sources: [Troy Hunt's][troy-hunt-blog],
 [Scott Helme's][scott-helme-blog] and the [Paragon Initiative Enterprises'][paragonie-blog] blog).
 
-This case also confirms my point of view that software developers should be regulated as thorougly as other engineering
-professionals. We should set our standards to a much higher level of quality, reliability and security than we currently
-do. Fortunately, the progress we have been seeing in last last decades is really promising, but we still have a long way
-to go.
+This case also confirms my point of view that software development should be regulated as thorougly as other engineering
+professions. Our industry should set its standards to a much higher level in security, reliability and code quality than
+it currently does. It's because from day to day, our life is affected by software more and more. Fortunately, the progress
+we have been seeing in the last decades is really promising, but we still have a long way to go.
 
 Another moral of the story is that if something goes really bad, be brave and take responsibility. This should be quite
 natural for everybody, but apparently there are some people who just can't do it. The point is that if you screw up,
 you still have one very last chance: to stand up, be honest and apologize for your mistake.
 
 People are usually very understanding because many of them can imagine themselves being in the same situation as you.
-Let's see when a GitLab employee [accidentally deleted their production database][gitlab-incident] for a great example.
+Let's take as a great example when a GitLab employee [accidentally deleted their production database][gitlab-incident].
 This incident was also extremely embarrassing but they communicated everything so openly (they streamed the resolution
-on Twitter, then wrote a very nice [postmortem][gitlab-postmortem], and tried to convince us that they do everything in
+on Twitter, wrote a very nice [postmortem][gitlab-postmortem] and tried to convince us that they do everything in
 order to prevent to commit this mistake again) so they actually gained the sympathy of people, and finally many of them
 said **thank you** to GitLab for being so open.
 
-Furthermore, it was astonishing to see the power of Facebook. I am certain that BKK and T-Systems would have never asked
-for apology if people hadn't started war on the internet. ...
+The last thing I'd like to highlight is the power of Facebook. It's amazing how powerful it grew in some years.
+I am certain that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet,
+although it's really sad that the fear from the fury on the internet was their main motivator to admit the issues with
+their system and finally publicly apologize. It is fascinating to experience that Facebook is not only suitable for
+spreading "fake news", but in the same time it can  
 
 ## Media coverage
 
