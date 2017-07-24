@@ -104,9 +104,9 @@ But my personal favourite is [this one][bkk-meme2-facebook]:
 ![Grade "F" for the marketing division of BKK"!][bkk-meme2]
 
 >- Mr. Teacher, I didn't study, please give me grade "F"!
->- Will be 17 000 pieces of it enough?
+>- Are 17 000 pieces of it enough?
 
-Background: the worst grade one can receive in Hungary is 1, while the best one is 5.
+Background: the worst grade students can receive in Hungary is 1, while the best one is 5.
 
 ## City mayor gone mad
 
@@ -136,34 +136,34 @@ So what is to be learnt from the story?
 
 First of all, never ever try to spare resources on fundamental security. It will cost much more money in the end if you
 screw up. In my opinion it is evident for lots of companies by now. The main problem I see however is that
-many organizations are usually uninterested in fixing long-standing security vulnerabilities because they are either in
+many organizations are usually uninterested in fixing long-standing unsecure code because they are either in
 a rush for money (thus preferring to develop new features), or don't see much added value of fixing something "that has
 been working well for ages" or just have no idea what the problem is.
 
 To be honest, I don't believe T-Systems Hungary wanted to save a little bit of money on development. It's much more
 likely that their developers were simply not aware of the "state of the art" in security practices, although there are
-so many great materials about the topic (please let me recommend you my favourite sources: [Troy Hunt's][troy-hunt-blog],
+so many great materials about the topic (please let me recommend my favourite sources for you: [Troy Hunt's][troy-hunt-blog],
 [Scott Helme's][scott-helme-blog] and the [Paragon Initiative Enterprises'][paragonie-blog] blog).
 
 This case also confirms my point of view that software development should be regulated as thorougly as other engineering
 professions. Our industry should set its standards to a much higher level in security, reliability and code quality than
-it currently does. It's because from day to day, our life is affected by software more and more. Fortunately, the progress
-we have been seeing in the last decades is really promising, but we still have a long way to go.
+it currently does. It's because with every passing day, our life is affected by software more and more. Fortunately, the
+progress our industry has been seeing in the last decades is really promising, but we still have a long way to go.
 
 Another moral of the story is that if something goes really bad, be brave and take responsibility. This should be quite
 natural for everybody, but apparently there are some people who just can't do it. The point is that if you screw up,
 you still have one very last chance: to stand up, be honest and apologize for your mistake.
 
 People are usually very understanding because many of them can imagine themselves being in the same situation as you.
-Let's take as a great example when a GitLab employee [accidentally deleted their production database][gitlab-incident].
-This incident was also extremely embarrassing but they communicated everything so openly (they streamed the resolution
+Let's take the case when a GitLab employee [accidentally deleted their production database][gitlab-incident] as a great
+example. This incident was also extremely embarrassing but they communicated everything so openly (they streamed the resolution
 on Twitter, wrote a very nice [postmortem][gitlab-postmortem] and tried to convince us that they do everything in
 order to prevent to commit this mistake again) so they actually gained the sympathy of people, and finally many of them
 said **thank you** to GitLab for being so open.
 
 The last thing I'd like to highlight is the power of Facebook. It is really fascinating to experience that it is not only
 suitable for spreading "fake news", but it can actually force people to back off from constant lying. I am certain
-that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet. Although it's
+that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet. Nevertheless it's
 really sad that the fear from the online fury was their main motivator to admit the issues with their system.
 
 ## Media coverage
