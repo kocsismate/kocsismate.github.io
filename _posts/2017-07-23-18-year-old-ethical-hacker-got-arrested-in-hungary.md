@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18-year-old ethical hacker got arrested in Hungary"
+title: "A 18-year-old ethical hacker got arrested in Hungary"
 date: 2017-07-23 20:00:00
 categories: security
 tags: social-justice
@@ -65,8 +65,8 @@ T-System Hungary Zrt. has already reported an attacker to the police.
 
 Then it came out that the aforementioned "attacker" is a 18-year-old kid almost without any computer education. He was
 the one who discovered that tickets can be bought [for any price you want](#security-gone-wrong) and who **immediately**
-reported the bug to the public transportation company. The next day, the young "hacker" was **arrested by the police early in
-the morning**.
+reported the bug to the public transportation company, and four hours later to the most popular online news site,
+[index.hu][index-bkk-tag]. The next day, the young "hacker" was **arrested by the police early in the morning**.
 
 Later that day, BKK Zrt. and T-Systems Zrt. made a common announcement in which they stated that
 
