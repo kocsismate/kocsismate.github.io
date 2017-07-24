@@ -162,7 +162,7 @@ order to prevent to commit this mistake again) so they actually gained the sympa
 said **thank you** to GitLab for being so open.
 
 The last thing I'd like to highlight is the power of Facebook. It is really fascinating to experience that it is not only
-suitable for spreading "fake news", but it can actually force certain people to back off from constant lying. I am certain
+suitable for spreading "fake news", but it can actually force people to back off from constant lying. I am certain
 that BKK and T-Systems would have never asked for apology if people hadn't started war on the internet. Although it's
 really sad that the fear from the online fury was their main motivator to admit the issues with their system.
 
