@@ -21,8 +21,8 @@ transportation company of Budapest ([BKK Zrt.][bkk-website]) that was made avail
 ![BKK Online shop][bkk-app]
 
 The digital tickets you buy from the webshop can be presented on your smart phone to the ticket controller personnel
-until the fully electronic ticket system ([RIGO][rigo-website]) is deployed in Budapest (it is expected at the end of 2018).
-This is great news and I feel that we are finally reaching the technology level of the 21st century!
+until the fully electronic ticket system ([RIGO][rigo-website]) is deployed in the capital (it is expected at the end of
+2018). This is great news and I feel that we are finally reaching the technology level of the 21st century!
 
 Unfortunately the devil is in the details, so during the first week of operation many-many severe security vulnerabilities
 and usability problems have been discovered. Here they are without the need for completeness:
@@ -33,7 +33,7 @@ accessing the webshop)
 - The CAPTCHA on the registration form is [ridiculous][bkk-captcha-twitter]
 ![So called "CAPTCHA" protection][bkk-captcha]
 - Email addresses weren't verified which allowed potential abuse
-- Your password used to be sent out directly in unencrypted mail if you requested a password reminder
+- Your password used to be sent out directly in unencrypted mail when you requested a password reminder
 - Password fields used to be filled out when editing your personal details
 - One used to be able to get access to personal details (including the password) of other registered users with limited
 IT knowledge by using an older web browser
