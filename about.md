@@ -8,16 +8,15 @@ I am a 27-year-old software developer based in Budapest, Hungary. I currently wo
 as Ustream) as a PHP backend engineer.
 
 I have a couple of open source projects which gained some traction over the years. In 2014, I started [Harmony](https://github.com/woohoolabs/harmony),
-a PHP micro-framework, after I got disappointed in Zend 2, Symfony et all. and realized the importance of Container-Interop
-in its early days. Then in 2015, I discovered the JSON:API standard, and wrote [Yin](https://github.com/woohoolabs/yin) &
-[Yang](https://github.com/woohoolabs/yang); a server and a client implementation for PHP. Later I realized that I could write
-the fastest PHP DI Container. In the fall of 2016, I finally created [Zen](https://github.com/woohoolabs/zen).
+a PHP micro-framework, as soon as I realized the importance of Container-Interop. Then in 2015, I discovered the JSON:API
+standard, and wrote [Yin](https://github.com/woohoolabs/yin) & [Yang](https://github.com/woohoolabs/yang); a server and a
+client implementation for PHP. When I realized that I could write the fastest DI Container for PHP, I created [Zen](https://github.com/woohoolabs/zen).
 According to [my benchmark](https://kocsismate.github.io/php/2017/01/20/benchmark-for-some-popular-di-containers/), it
-is really the fastest Dependency Injection Container in PHP-land.
+is really the fastest Container in PHP-land.
 
 Besides, I enjoy practicing and teaching Domain-Driven Design, designing APIs, applying modern security practices.
 As I am fond of automation, I love Docker and Terraform too. In my free time, I co-organize the
-[PHP Roundtable Budapest meetups](https://www.meetup.com/preview/PHP-Roundtable-Budapest).
+[PHP Roundtable](https://www.meetup.com/preview/PHP-Roundtable-Budapest) meetups in Budapest.
 
 ### Projects
 
@@ -36,7 +35,7 @@ As I am fond of automation, I love Docker and Terraform too. In my free time, I 
 - [Web Security Course](https://slides.com/kocsismate/websec-1/)
 - [I18n, L10n, A11y](https://slides.com/kocsismate/i18n/)
 
-## CV
+### CV
 
 - Hungarian: [https://kocsismate.github.io/assets/cv/cv-magyar.pdf](https://kocsismate.github.io/assets/cv/cv-magyar.pdf)
 - English: [https://kocsismate.github.io/assets/cv/cv-english.pdf](https://kocsismate.github.io/assets/cv/cv-english.pdf)
