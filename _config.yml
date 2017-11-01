@@ -5,7 +5,10 @@ gems:
 
 # Site settings
 title: "Máté Kocsis"
-description: "My professional blog"
+description: >
+   Software Developer in Budapest, Hungary @ IBM Cloud Video.<br/>
+   Enjoys PHP, Domain-Driven Design, REST, and Continuous Delivery.<br/>
+   Father of multiple open source projects.
 email: "kocsismate@woohoolabs.com"
 logo: "/assets/image/author.jpg"
 cover: "/assets/image/background_image.jpg"
