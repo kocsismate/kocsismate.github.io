@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am a 27-year-old software developer based in Budapest, Hungary. I currently work for IBM Cloud Video (originally it was
+I am a 27-year-old software developer based in Budapest, Hungary. I currently work for IBM Cloud Video (it was originally
 called Ustream before the acquisition) as a PHP backend developer. Formerly I worked for smaller companies in the e-commerce business.
 
 I have a couple of open source projects which gained some traction over the years. In 2014, I started Harmony,
 a PHP micro-framework, as soon as I realized the importance of the Container-Interop standard. Then in 2015, I discovered
-the JSON:API standard, and wrote Yin & Yang; a server and a client implementation for PHP. When I realized that I could
-write the fastest DI Container for PHP, I created Zen. According to [my benchmark](https://kocsismate.github.io/php/2017/01/20/benchmark-for-some-popular-di-containers/),
-it is really the fastest Container in PHP-land.
+the JSON:API standard, and wrote Yin & Yang; a server and a client implementation for PHP. In 2016, I created Zen after
+realizing that I could write the fastest PHP DI Container. According to [my benchmark](https://kocsismate.github.io/php/2017/01/20/benchmark-for-some-popular-di-containers/),
+Zen met my expectations.
 
 Besides, I enjoy practicing and teaching Domain-Driven Design, designing APIs, applying modern security practices.
 As I am fond of automation, I love Docker and Terraform too. In my free time, I co-organize the
