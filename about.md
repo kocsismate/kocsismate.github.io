@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a 27-year-old software developer based in Budapest, Hungary. I currently work for IBM Cloud Video (formerly known
-as Ustream) as a PHP backend engineer. Formerly I worked for smaller companies in the e-commerce.
+I am a 27-year-old software developer based in Budapest, Hungary. I currently work for IBM Cloud Video (originally it was
+called Ustream before the acquisition) as a PHP backend developer. Formerly I worked for smaller companies in the e-commerce business.
 
 I have a couple of open source projects which gained some traction over the years. In 2014, I started Harmony,
 a PHP micro-framework, as soon as I realized the importance of the Container-Interop standard. Then in 2015, I discovered
