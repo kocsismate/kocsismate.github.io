@@ -5,14 +5,13 @@ permalink: /about/
 ---
 
 I am a 27-year-old software developer based in Budapest, Hungary. I currently work for IBM Cloud Video (formerly known
-as Ustream) as a PHP backend engineer.
+as Ustream) as a PHP backend engineer. Formerly I worked for smaller companies in the e-commerce.
 
-I have a couple of open source projects which gained some traction over the years. In 2014, I started [Harmony](https://github.com/woohoolabs/harmony),
-a PHP micro-framework, as soon as I realized the importance of Container-Interop. Then in 2015, I discovered the JSON:API
-standard, and wrote [Yin](https://github.com/woohoolabs/yin) & [Yang](https://github.com/woohoolabs/yang); a server and a
-client implementation for PHP. When I realized that I could write the fastest DI Container for PHP, I created [Zen](https://github.com/woohoolabs/zen).
-According to [my benchmark](https://kocsismate.github.io/php/2017/01/20/benchmark-for-some-popular-di-containers/), it
-is really the fastest Container in PHP-land.
+I have a couple of open source projects which gained some traction over the years. In 2014, I started Harmony,
+a PHP micro-framework, as soon as I realized the importance of the Container-Interop standard. Then in 2015, I discovered
+the JSON:API standard, and wrote Yin & Yang; a server and a client implementation for PHP. When I realized that I could
+write the fastest DI Container for PHP, I created Zen. According to [my benchmark](https://kocsismate.github.io/php/2017/01/20/benchmark-for-some-popular-di-containers/),
+it is really the fastest Container in PHP-land.
 
 Besides, I enjoy practicing and teaching Domain-Driven Design, designing APIs, applying modern security practices.
 As I am fond of automation, I love Docker and Terraform too. In my free time, I co-organize the
